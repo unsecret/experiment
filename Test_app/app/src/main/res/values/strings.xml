@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Test_app</string>
+    <string name="hello">"Hello World !"</string>
+    <string name="texteGras">%1$s texte en <b>gras</b>!</string>
 </resources>

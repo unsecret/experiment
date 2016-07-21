@@ -10,7 +10,10 @@
     tools:context="app.unsecret.test_app.MainActivity">
 
     <TextView
+
+        android:id="@+id/vue"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!" />
+       />
+
 </RelativeLayout>
